@@ -1,8 +1,8 @@
-// Jiyu Liu ==
+// Jiyu Liu 
 // CS1400, section 04
 // Project 1 - calculations on integers and strings
 // 2021/02/14
-
+//This is my project of CS1400!!
 import java.util.Scanner;
 
 public class Calculations
