@@ -1,4 +1,4 @@
-// Jiyu Liu
+// Jiyu Liu ==
 // CS1400, section 04
 // Project 1 - calculations on integers and strings
 // 2021/02/14
